@@ -41,3 +41,35 @@ Output should contain 1 line for each 3 entered. Each line will contain the name
 Explanation:
 
 <img width="479" alt="Screenshot 2024-02-22 at 6 17 54 PM" src="https://github.com/thaovyvle/Arcade-Management/assets/122627050/9625745a-0bbd-4638-ae6b-82e6bd904ae1">
+
+## Sample Input: #2
+```text
+  1 3 Josh
+  1 4 Grace
+  3
+  1 5 isASoreLoser
+  3
+  1 6 RealFunnyJosh
+  3
+  3
+  2
+  2
+  2
+  3
+  2
+  0
+```
+
+## Sample Output: #2
+```text
+  Grace
+  isASoreLoser
+  RealFunnyJosh
+  RealFunnyJosh
+  Josh
+```
+
+Explanation: 
+
+<img width="373" alt="Screenshot 2024-02-22 at 6 21 22 PM" src="https://github.com/thaovyvle/Arcade-Management/assets/122627050/0699c783-ce46-4049-a022-25bef9211173">
+
